@@ -21,7 +21,7 @@
       "params": { "category": "type" }
     }
   ],
-  "hostname": "https://seattlecatering.netlify.app",
+  "hostname": "https://seattlecatering.vercel.app",
   "sitemapUrls": [
   ],
   "routifyRuntimeConfig": {
